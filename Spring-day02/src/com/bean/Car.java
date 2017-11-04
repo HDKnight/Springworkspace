@@ -25,7 +25,6 @@ public class Car {
 	
 	@Override
 	public String toString() {
-		// TODO 自动生成的方法存根
 		return "Car [name=" + name + ", color=" + color + "]";
 	}
 

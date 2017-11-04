@@ -50,7 +50,7 @@ public class User {
 		System.out.println("我是生命周期销毁方法！");
 	}@Override
 	public String toString() {
-		// TODO 自动生成的方法存根
+		
 		return "User [name=" + name + ",age="+ age+ ",car=" + car + "]";
 	}
 }

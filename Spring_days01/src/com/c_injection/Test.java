@@ -15,7 +15,7 @@ public class Test {
 	}
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		
 		List<Integer> list =  Arrays.asList(1, 2, 9, 4, 5); 
 		System.out.println(list.toString());
 	}
